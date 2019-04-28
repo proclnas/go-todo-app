@@ -140,5 +140,6 @@ func saveTodoFile(newTodos []Todo) {
 
 func main() {
 	registerRoutes()
+	fmt.Println("Running on port: 8080")
 	http.ListenAndServe(":8080", r)
 }
