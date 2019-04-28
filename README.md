@@ -21,6 +21,15 @@ $ go build
 $ ./todo-app
 ```
 
+##### Endpoints
+```
+GET /todos (All todos)
+GET /todos/{id} (Specific todo)
+POST /todos/{id} (Create todo)
+-> POST VALUES, json: {description: string, finished: bool, date: string}
+DELETE /todos/{id} (Delete specific todo)
+```
+
 #### Roadmap
 [x] CRUD api
 [ ] Home to view and interact visually with todos
