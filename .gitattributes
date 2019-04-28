@@ -1,1 +1,2 @@
-*.go -text diff=golang
+*.go linguist-detectable=true
+*.js linguist-detectable=false
