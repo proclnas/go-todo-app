@@ -31,6 +31,6 @@ DELETE /todos/{id} (Delete specific todo)
 ```
 
 #### Roadmap
-[x] CRUD api
-[ ] Home to view and interact visually with todos
-[ ] Unit tests
+- [x] CRUD api
+- [ ] Home to view and interact visually with todos
+- [ ] Unit tests
