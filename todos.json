@@ -1,0 +1,14 @@
+[
+    {
+        "id": "1",
+        "description": "My first todo",
+        "finished": true,
+        "date": "2019-04-27"
+    },
+    {
+        "id": "2",
+        "description": "My second todo",
+        "finished": false,
+        "date": "2019-04-27"
+    }
+]
